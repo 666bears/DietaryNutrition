@@ -14,6 +14,7 @@
 #### 有需求尽管甩过来！一条龙帮你安心过！
 
 #### 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
+#### 计算机毕设定制：https://www.yuque.com/techninja/code/xrpvpxbu3y8fa3ey?singleDoc#
 #### 一、 项目介绍
 基于SpringBoot Vue膳食营养健康网站
 
